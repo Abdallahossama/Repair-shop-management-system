@@ -6,7 +6,7 @@
 4. [] Provide easy navigation & search for customers & tickets
 5. [] Provide a logout option
 6. [] Provide a way to remove employee access asap if needed
-7. [] Customers have an ID, full address, phone, email & notes
+7. [] Customers have an ID, name , full address, phone, email , Submit Date & notes
 8. [] Tickets have an ID, title, notes, created & updated dates
 9. [] Tickets are either OPEN or COMPLETED
 10. [] Tickets are assigned to specific employees

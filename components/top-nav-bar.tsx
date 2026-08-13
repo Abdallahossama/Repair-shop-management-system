@@ -15,7 +15,7 @@ const TopNavBar = () => {
     <nav className="px-5 flex justify-between py-5 border-b-1 mb-7">
       <h1 className="text-2xl font-semibold">Repair Shop</h1>
       <div className="flex gap-5 justify-center items-center">
-        <Link href={"/dashboard/users"}>
+        <Link href={"/dashboard/customers"}>
           <Store />
         </Link>
         <Link href={"/dashboard/tickets"}>

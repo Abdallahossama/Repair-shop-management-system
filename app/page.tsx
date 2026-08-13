@@ -7,7 +7,7 @@ export default function Home() {
         className="absolute inset-0 pointer-events-none bg-black/50
 "
       ></div>
-      <div className="w-full max-w-md z-2">
+      <div className="w-full max-w-lg z-2">
         <h1 className="text-7xl text-white text-center mb-5">Repair Shop</h1>
         <LoginForm />
       </div>
